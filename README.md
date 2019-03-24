@@ -1,3 +1,3 @@
 # AtYarisiveAramaUygulamasi
 
-// At yarışı cümle içinde kelime arama uygulamaları.
+// At yarışı ve uzun sayı içerisinde belirli bir sayıyı arama uygulaması
